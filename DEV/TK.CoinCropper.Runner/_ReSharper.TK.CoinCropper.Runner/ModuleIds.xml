@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="3DA00341-0C1B-4451-9774-0E1367295C8E" ModuleId="TK.CoinCropper.Runner" />
+  <Module PersistentId="B6AF1953-BFDB-434F-9408-C8850D9097E6" ModuleId="TK.CoinCropper.Core" />
+  <Module PersistentId="023C68C9-8B6E-4577-ACA5-F3FBAF7A800E" ModuleId="TK.CoinCropper.App" />
+</Modules>
